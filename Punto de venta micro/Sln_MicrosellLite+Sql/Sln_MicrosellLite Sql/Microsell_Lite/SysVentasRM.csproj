@@ -13,7 +13,7 @@
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://lagranjavilla.com/</PublishUrl>
+    <PublishUrl>C:\Users\PROGRAMADOR\AlmacenSami\published\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,14 +23,14 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://lagranjavilla.com/</InstallUrl>
-    <UpdateUrl>https://lagranjavilla.com/</UpdateUrl>
+    <InstallUrl>https://raw.githubusercontent.com/DeveloperSamiTask/AlmacenSami/main/published/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/DeveloperSamiTask/AlmacenSami/main/published/.gitattributes%3ftoken=GHSAT0AAAAAAB4TBHJRZZKHODAL7OIZEQUMY5B7DDA/</UpdateUrl>
     <ProductName>Almacen Samitask</ProductName>
     <PublisherName>SamiTask</PublisherName>
     <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -38,7 +38,7 @@
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -75,9 +75,7 @@
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-  </PropertyGroup>
+  <PropertyGroup />
   <PropertyGroup>
     <ApplicationIcon>a1.ico</ApplicationIcon>
   </PropertyGroup>

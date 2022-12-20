@@ -2,10 +2,10 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>ftp://lagranjavilla.com/|ftp://lagranjavilla.com/Application_Files/|ftp://lagranjavilla.com/Application Files/|FTPS://lagranjavilla.com/|\\PROGAMADOR\AlmacenSami\</PublishUrlHistory>
-    <InstallUrlHistory>https://lagranjavilla.com/|https://lagranjavilla.com/Application_Files/|\\PROGAMADOR\Users\PROGRAMADOR\Desktop\AlmacenSami\</InstallUrlHistory>
+    <PublishUrlHistory>C:\Users\PROGRAMADOR\AlmacenSami\published\|ftp://lagranjavilla.com/|ftp://lagranjavilla.com/Application_Files/|ftp://lagranjavilla.com/Application Files/|FTPS://lagranjavilla.com/</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/DeveloperSamiTask/AlmacenSami/main/published/|https://raw.githubusercontent.com/DeveloperSamiTask/AlmacenSami/main/published/.gitattributes%3ftoken=GHSAT0AAAAAAB4TBHJRZZKHODAL7OIZEQUMY5B7DDA/|https://lagranjavilla.com/|https://lagranjavilla.com/Application_Files/|\\PROGAMADOR\Users\PROGRAMADOR\Desktop\AlmacenSami\</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory>https://lagranjavilla.com/|https://lagranjavilla.com/Application_Files/|https://lagranjavilla.com/Application Files/|\\PROGAMADOR\AlmacenSami\|\\PROGAMADOR\Usuarios\PROGRAMADOR\Desktop\AlmacenSami\</UpdateUrlHistory>
+    <UpdateUrlHistory>https://raw.githubusercontent.com/DeveloperSamiTask/AlmacenSami/main/published/.gitattributes%3ftoken=GHSAT0AAAAAAB4TBHJRZZKHODAL7OIZEQUMY5B7DDA/|https://lagranjavilla.com/|https://lagranjavilla.com/Application_Files/|https://lagranjavilla.com/Application Files/|\\PROGAMADOR\AlmacenSami\</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>es-ES</FallbackCulture>

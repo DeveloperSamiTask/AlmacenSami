@@ -11,3 +11,16 @@ E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite 
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.CopyComplete
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.dll
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.dll.config
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Entidad.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.dll.config
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Entidad.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.CopyComplete
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.pdb

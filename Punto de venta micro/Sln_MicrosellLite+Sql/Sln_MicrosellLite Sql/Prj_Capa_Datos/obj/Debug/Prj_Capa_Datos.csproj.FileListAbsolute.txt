@@ -106,3 +106,37 @@ E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite 
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
 E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll.config
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\MySql.Data.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Buffers.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Memory.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Renci.SshNet.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Google.Protobuf.pdb
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\Google.Protobuf.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\MySql.Data.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Buffers.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Memory.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\PROGRAMADOR\AlmacenSami\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
