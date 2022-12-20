@@ -1,0 +1,242 @@
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Guna.UI.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\System.Drawing.Common.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll.config
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll.config
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.AssemblyReference.cache
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.ResolveComReference.cache
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explor_DetCaja.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explor_Caja.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AgregarCliente.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explor_Cliente.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoCliente.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetalleCompra.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_DetalleCotizacion.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explor_Cotizacion_Estado.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Creditos.Frm_abonarCred.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Credito.Frm_Explor_Credito.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explor_Mov_Producto.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Importar_Producto.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Print_Productos.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_FiltroFecha.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Bienvenido.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_TipoCambio.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetallePedido.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explor_Documentos.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explor_Compras.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cantidad.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explor_Cotizacion.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Cotizacion.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Edit_Prod.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_ListadoProductos_Compras.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explor_Producto.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_EditProvee.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_AddProvee.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_ListadoProveedor.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_Proveedor.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distritos.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Add_Cantidad.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio2.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marcas.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_sino.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.GenerateResource.cache
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.CoreCompileInputs.cache
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.CopyComplete
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.BaseDatos.RestoreBD.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\BarcodeLib.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\FontAwesome.Sharp.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\itextsharp.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\itextsharp.xmlworker.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.OOXML.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.OpenXml4Net.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\BouncyCastle.Crypto.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\itextsharp.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\NPOI.OOXML.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\BouncyCastle.Crypto.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.frmInicio.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.frmMasivo.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_ListadoProductoCB.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Empresa.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Roles.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Reg_Usuario.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Explor_Usuario.resources
+D:\INFORMACION JUAN\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Edit_Usuario.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.config
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe.manifest
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.application
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.exe
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Microsell_Lite.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\AxShockwaveFlashObjects.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Shared.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\QRCoder.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\System.Drawing.Common.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ThoughtWorks.QRCode.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\ShockwaveFlashObjects.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\stdole.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Datos.dll.config
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Entidad.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Prj_Capa_Negocio.dll.config
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.AssemblyReference.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.ResolveComReference.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.BaseDatos.RestoreBD.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_CerrarCaja.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explor_DetCaja.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Explor_Caja.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_InicioCaja.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Registrar_Gastos.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Caja.Frm_Reg_otroIngresos.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_AgregarCliente.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_EditCliente.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_Explor_Cliente.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cliente.Frm_ListadoCliente.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Form1.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.frmInicio.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.frmMasivo.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Compras.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_DetalleCompra.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_DetalleCotizacion.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explor_Cotizacion_Estado.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Creditos.Frm_abonarCred.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Credito.Frm_Explor_Credito.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explor_Mov_Producto.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Importar_Producto.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_ListadoProductoCB.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Print_Productos.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_FiltroFecha.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Explor_Usuario.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Edit_Usuario.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Roles.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Usuario.Frm_Reg_Usuario.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Correlativo.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Bienvenido.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Empresa.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_TipoCambio.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_DetallePedido.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Explor_Documentos.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Explor_Compras.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Cantidad.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Compras.Frm_Solo_Precio.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Cotizacion.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Cotizacion.Frm_Explor_Cotizacion.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Filtro.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Login.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Frm_Principal.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Informe.Frm_Print_Cotizacion.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Edit_Prod.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_ListadoProductos_Compras.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Explor_Producto.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Productos.Frm_Reg_Prod.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Properties.Resources.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_EditProvee.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_AddProvee.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_ListadoProveedor.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Proveedores.Frm_Proveedor.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Distritos.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Add_Cantidad.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio2.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Marcas.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Categoria.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Advertencia.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_Msm_Bueno.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_sino.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Utilitarios.Frm_SoloFecha.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Crear_Ventas.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Edit_Precio.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_Print_NotaVenta.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.Ventas.Frm_TipoPago_Credito.resources
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.GenerateResource.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.licenses
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.TrustInfo.xml
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe.manifest
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.application
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\SysVentasRM.csproj.CopyComplete
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.exe
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Microsell_Lite\obj\Debug\Microsell_Lite.pdb

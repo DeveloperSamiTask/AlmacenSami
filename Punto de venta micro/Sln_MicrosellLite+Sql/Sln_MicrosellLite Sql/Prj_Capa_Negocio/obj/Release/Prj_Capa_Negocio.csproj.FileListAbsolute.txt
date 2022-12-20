@@ -1,0 +1,13 @@
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.dll.config
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Negocio.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Entidad.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Datos.dll.config
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Release\Prj_Capa_Entidad.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.csproj.CopyComplete
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Release\Prj_Capa_Negocio.pdb

@@ -1,0 +1,6 @@
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\bin\Release\Prj_Capa_Entidad.pdb
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.csproj.AssemblyReference.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.dll
+E:\PROGRAMACION C#\Punto de venta micro\Sln_MicrosellLite+Sql\Sln_MicrosellLite Sql\Prj_Capa_Entidad\obj\Release\Prj_Capa_Entidad.pdb
