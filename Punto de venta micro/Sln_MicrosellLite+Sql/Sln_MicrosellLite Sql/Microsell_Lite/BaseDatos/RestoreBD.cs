@@ -204,15 +204,12 @@ namespace Microsell_Lite.BaseDatos
             string query20 = "DELETE FROM Caja";
             string query19 = "DELETE FROM Cierre_Caja";
             string query18 = "DELETE FROM Detalle_Temporal";
-            string query17 = "DELETE FROM Temporal";
-            string query14 = "DELETE FROM DocumentoCompras";
             string query13 = "DELETE FROM Detalle_DocumCompra";
+            string query14 = "DELETE FROM DocumentoCompras";
+            string query17 = "DELETE FROM Temporal";           
+            
             string query12 = "DELETE FROM Detalle_Kardex";
             string query11 = "DELETE FROM KardexProducto";
-            string query15 = "DELETE FROM Marcas";
-            string query16 = "DELETE FROM Proveedor";
-            string query10 = "DELETE FROM Productos";
-            string query9 = "DELETE FROM Categorias";
             string query8 = "DELETE FROM Cotizacion";
             string query7 = "DELETE FROM Detalle_Credito";
             string query6 = "DELETE FROM Credito";
@@ -220,23 +217,29 @@ namespace Microsell_Lite.BaseDatos
             string query1 = "DELETE FROM Detalle_Pedido";
             string query = "DELETE FROM Pedido";
             string query2 = "DELETE FROM Cliente";
-            //string query3 = "DELETE FROM Distrito";    
             string query4 = "DELETE FROM Menu_xUsu";
+            string query10 = "DELETE FROM Productos";
+            string query16 = "DELETE FROM Proveedor";
+            string query15 = "DELETE FROM Marcas";
+            
+            string query9 = "DELETE FROM Categorias";
+           
+            
+           
+            
+            //string query3 = "DELETE FROM Distrito";    
+           
             SqlCommand cmd23 = new SqlCommand(query23, con);
             SqlCommand cmd22 = new SqlCommand(query22, con);
             SqlCommand cmd21 = new SqlCommand(query21, con);
             SqlCommand cmd20 = new SqlCommand(query20, con);
             SqlCommand cmd19 = new SqlCommand(query19, con);
             SqlCommand cmd18 = new SqlCommand(query18, con);
+            SqlCommand cmd13 = new SqlCommand(query13, con);
+            SqlCommand cmd14 = new SqlCommand(query14, con);
             SqlCommand cmd17 = new SqlCommand(query17, con);
             SqlCommand cmd12 = new SqlCommand(query12, con);
             SqlCommand cmd11 = new SqlCommand(query11, con);
-            SqlCommand cmd13 = new SqlCommand(query13, con);
-            SqlCommand cmd15 = new SqlCommand(query15, con);
-            SqlCommand cmd14 = new SqlCommand(query14, con);
-            SqlCommand cmd16 = new SqlCommand(query16, con);
-            SqlCommand cmd10 = new SqlCommand(query10, con);
-            SqlCommand cmd9 = new SqlCommand(query9, con);
             SqlCommand cmd8 = new SqlCommand(query8, con);
             SqlCommand cmd7 = new SqlCommand(query7, con);
             SqlCommand cmd6 = new SqlCommand(query6, con);
@@ -244,23 +247,23 @@ namespace Microsell_Lite.BaseDatos
             SqlCommand cmd1 = new SqlCommand(query1, con);
             SqlCommand cmd = new SqlCommand(query, con);
             SqlCommand cmd2 = new SqlCommand(query2, con);
-            //SqlCommand cmd3 = new SqlCommand(query3, con);
             SqlCommand cmd4 = new SqlCommand(query4, con);
+            SqlCommand cmd10 = new SqlCommand(query10, con);
+            SqlCommand cmd16 = new SqlCommand(query16, con);            
+            SqlCommand cmd15 = new SqlCommand(query15, con);
+            //SqlCommand cmd3 = new SqlCommand(query3, con);
+            SqlCommand cmd9 = new SqlCommand(query9, con);
             cmd23.ExecuteNonQuery();
             cmd22.ExecuteNonQuery();
             cmd21.ExecuteNonQuery();
             cmd20.ExecuteNonQuery();
             cmd19.ExecuteNonQuery();
             cmd18.ExecuteNonQuery();
-            cmd17.ExecuteNonQuery();
-            cmd16.ExecuteNonQuery();
-            cmd15.ExecuteNonQuery();
-            cmd14.ExecuteNonQuery();
             cmd13.ExecuteNonQuery();
+            cmd14.ExecuteNonQuery();
+            cmd17.ExecuteNonQuery();
             cmd12.ExecuteNonQuery();
             cmd11.ExecuteNonQuery();
-            cmd10.ExecuteNonQuery();
-            cmd9.ExecuteNonQuery();
             cmd8.ExecuteNonQuery();
             cmd7.ExecuteNonQuery();
             cmd6.ExecuteNonQuery();
@@ -268,8 +271,12 @@ namespace Microsell_Lite.BaseDatos
             cmd1.ExecuteNonQuery();
             cmd.ExecuteNonQuery();
             cmd2.ExecuteNonQuery();
-            //cmd3.ExecuteNonQuery();
             cmd4.ExecuteNonQuery();
+            cmd10.ExecuteNonQuery();
+            cmd16.ExecuteNonQuery();
+            cmd15.ExecuteNonQuery();
+            //cmd3.ExecuteNonQuery();
+            cmd9.ExecuteNonQuery();
             con.Close();
         }
         private void elButton1_Click(object sender, EventArgs e)
