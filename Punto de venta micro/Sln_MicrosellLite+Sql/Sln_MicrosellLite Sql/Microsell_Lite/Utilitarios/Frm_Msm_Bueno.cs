@@ -36,9 +36,7 @@ namespace Microsell_Lite.Utilitarios
         {
             string ruta;
             ruta = Application.StartupPath;
-            System.Media.SoundPlayer son;
-            son = new System.Media.SoundPlayer(ruta + @"\Gotaagua.wav");
-            son.Play();
+           
                        
         }
       
