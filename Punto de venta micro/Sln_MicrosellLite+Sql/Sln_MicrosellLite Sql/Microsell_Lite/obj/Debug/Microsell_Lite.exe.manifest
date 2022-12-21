@@ -343,14 +343,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsell_Lite.exe" size="4419560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsell_Lite.exe" size="4468712">
       <assemblyIdentity name="Microsell_Lite" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gK8WIBJlUO/eJTLsCS+gIqm8dPLe7OezUzhNAPE7g+U=</dsig:DigestValue>
+        <dsig:DigestValue>gU9bd7JPTEaLvWP+X3rL80/6W3a79tBDuf5L/VYY6p8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
